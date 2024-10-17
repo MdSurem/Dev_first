@@ -5,4 +5,7 @@ free -g
 nproc
 df -h
 ps -ef | grep "amazon"
+ echo "some basic structure define along with the code"
+pwd
+touch file{1..5}
 
